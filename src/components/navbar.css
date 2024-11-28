@@ -1,0 +1,17 @@
+/* Estilo para la barra de navegación */
+.navbar-container {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center; 
+    width: 100%; 
+}
+
+.navbar-logo {
+    width: 200px; 
+    height: auto;
+}
+
+.navbar-cart {
+    display: flex; 
+    justify-content: flex-end; 
+}
